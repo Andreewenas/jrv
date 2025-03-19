@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Blaze Circuit';
+  src: url('./assets/font/Blaze Circuit.ttf') format('truetype');
+}
+
+
+@font-face {
+  font-family: 'Expend Bold'; 
+  src: url('./assets/font/ExpendBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Sunsive Black'; 
+  src: url('./assets/font/Sunsive-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Neue Bold'; 
+  src: url('./assets/font/NeueMontreal-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Neue Reguler'; 
+  src: url('./assets/font/NeueMontreal-Regular.otf') format('opentype');
+}
