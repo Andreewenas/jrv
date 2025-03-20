@@ -1,5 +1,5 @@
 import React from "react";
-import { HoverEffect } from "UI/card-hover-effect";
+import { HoverEffect } from "UI/card-hover-effect"; 
 
 const projects = [
     {
