@@ -60,7 +60,7 @@ const Layanan: React.FC = () => {
       <HoverEffect items={projects} />
     </div>
     </section>
-  );
+  );  
 };
 
 export default Layanan;
