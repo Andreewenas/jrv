@@ -4,7 +4,7 @@ import { BlurFade } from "UI/blur-fade";
 import { TextAnimate } from "UI/t-animated";  
 import { GridPattern } from "UI/grid-p";  
 import ShinyText from "UI/shinytext";    
-import StarBorder from "UI/startborder";   
+import StarBorder from "UI/startborder";    
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome" 
 import { faYoutube } from "@fortawesome/free-brands-svg-icons"
 import { faTiktok } from "@fortawesome/free-brands-svg-icons" 
