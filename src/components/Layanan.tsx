@@ -3,7 +3,7 @@ import { HoverEffect } from "UI/card-hover-effect";
 
 const projects = [
     {
-      title: "Repair Velg",  
+      title: "Repair Velg",   
       description:
         "A technology company that builds economic infrastructure for the internet.",
       link: "https://stripe.com",    
