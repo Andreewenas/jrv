@@ -9,7 +9,7 @@ const projects = [
       link: "https://stripe.com",    
     }, 
     {
-      title: "Custom Velg",
+      title: "Custom Velg", 
       description:
         "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
       link: "https://netflix.com",
