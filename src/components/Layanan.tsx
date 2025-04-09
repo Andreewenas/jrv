@@ -7,7 +7,7 @@ const projects = [
       description:
         "A technology company that builds economic infrastructure for the internet.",
       link: "https://stripe.com",    
-    },
+    }, 
     {
       title: "Custom Velg",
       description:
