@@ -36,7 +36,7 @@ const items = [
   {
     title: "The Dawn of Innovation",
     description: "Explore the birth of groundbreaking ideas and inventions.",
-    header: <Skeleton />,
+    header: <Skeleton />, 
     icon: <IconClipboardCopy className="h-4 w-4 text-neutral-500" />,
   },
   {
@@ -93,7 +93,7 @@ const Layanan: React.FC = () => {
       </div>
 
       <div className="z-10">
-        <h1 className="font-neuebold font-extrabold text-black text-6xl text-center mb-12 pt-24">Layanan kami</h1>
+        <h1 className="font-neuebold font-extrabold text-black text-6xl lg:text-6xl md:text-4xl sm:text-3xl text-center mb-12 pt-24">Layanan kami</h1>
         <div className="max-w-8xl mx-auto px-8">
       <BentoGridDemo/>
       </div>
