@@ -61,7 +61,7 @@ const Navbar: React.FC = () => {
   
   </div>
   
-  {/* Bagian teks utama - Penyesuaian ukuran font untuk mobile */}
+  {/* Bagian teks utama */}
   <div className="flex justify-center items-center">
     <div className="mx-auto max-w-8xl px-4 sm:px-6">
       <div className="flex flex-col justify-center items-center text-center">
